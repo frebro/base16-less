@@ -1,0 +1,9 @@
+{
+  "name": "base16-less",
+  "version": "0.1.0",
+  "main": ["./less/*"],
+  "ignore": [
+    ".gitignore",
+    "bower.json"
+  ]
+}
