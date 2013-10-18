@@ -60,7 +60,7 @@ By [Ethan Schoonover](http://ethanschoonover.com/solarized)
 Bootstrap integration
 ---------------------
 
-Do you build your own [Bootstrap](https://github.com/twbs/bootstrap)? Include either one of base16-light or base16-dark from the /bootstrap/ directory together with one of the theme files to apply a Base16 color theme. Here's how
+Do you build your own [Bootstrap](https://github.com/twbs/bootstrap)? Include either one of light.less or dark.less from the /base16-bootstrap/ directory together with one of the theme files to apply a Base16 color theme. Here's how
 
 ``` css
 // Import Bootstrap
@@ -68,5 +68,5 @@ Do you build your own [Bootstrap](https://github.com/twbs/bootstrap)? Include ei
 
 // Apply a Base16 theme
 @import "base16/default"
-@import "bootstrap/base16-dark"
+@import "base16-bootstrap/bright"
 ```
