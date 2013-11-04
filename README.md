@@ -57,6 +57,9 @@ By [Ryan Bates](http://railscasts.com)
 By [Ethan Schoonover](http://ethanschoonover.com/solarized)
 * Solarized
 
+By [Fredrik Broman](http://frebro.com)
+* Android
+
 Bootstrap integration
 ---------------------
 
